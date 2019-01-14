@@ -1,0 +1,20 @@
+% ARFF
+% Fichero para Weka con los datos del RS de 2015
+@RELATION rapidscat_ascat
+@ATTRIBUTE fechaJuliana numeric
+@ATTRIBUTE latitud numeric
+@ATTRIBUTE longitud numeric
+@ATTRIBUTE velocidad_viento numeric
+@ATTRIBUTE dirección_viento numeric
+@ATTRIBUTE velocidad_vientoMax numeric
+@ATTRIBUTE velocidad_vientoMed numeric
+@DATA
+Cristian Neagu,Teamnet,2018-01-16 12:23:15,Ljava.lang.Double;@3b27c2e6,36.54,95.56,98.86,79.0,81.0,80.34,118.0,82.0,3.8,4.32,4.08,N,Y,2018-01-16 12:23:20,N
+Vera,V11app,2018-01-16 12:19:13,Ljava.lang.Double;@1905ae41,36.3,102.67,102.87,0.0,2.0,1.05,112.0,73.0,2.86,2.93,2.9,N,Y,2018-01-16 12:28:51,N
+Vera,V11app,2018-01-16 12:23:48,Ljava.lang.Double;@364462b7,35.22,103.34,103.76,0.0,2.0,0.9,112.0,73.0,3.27,3.35,3.3,N,Y,2018-01-16 12:28:51,N
+Vera,V11app,2018-01-16 12:23:54,Ljava.lang.Double;@2964f914,35.67,103.13,104.45,0.0,2.0,1.09,112.0,74.0,2.99,3.08,3.03,N,Y,2018-01-16 12:28:51,N
+Vera,V11app,2018-01-16 12:27:43,Ljava.lang.Double;@36b5d50c,36.31,102.47,102.86,86.0,90.0,88.89,92.0,62.0,2.72,2.78,2.75,N,Y,2018-01-16 12:28:51,N
+Vera,V11app,2018-01-16 12:30:29,Ljava.lang.Double;@276023d,35.94,100.63,100.75,0.0,2.0,1.48,92.0,62.0,1.62,1.66,1.64,N,Y,2018-01-16 12:30:36,N
+Vera,V11app,2018-01-16 12:39:07,Ljava.lang.Double;@1732991e,36.91,99.42,99.68,80.0,83.0,81.75,91.0,62.0,0.88,1.07,1.04,N,Y,2018-01-16 12:44:24,N
+Vera,V11app,2018-01-16 12:39:21,Ljava.lang.Double;@19907eb5,33.93,99.48,99.54,82.0,86.0,84.92,91.0,62.0,1.02,1.07,1.05,N,Y,2018-01-16 12:44:24,N
+Vera,V11app,2018-01-16 12:44:09,Ljava.lang.Double;@115c53e,34.06,97.45,97.57,82.0,87.0,84.69,91.0,62.0,0.05,0.07,0.06,N,Y,2018-01-16 12:44:24,N
